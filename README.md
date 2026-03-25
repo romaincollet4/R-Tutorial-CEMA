@@ -7,8 +7,8 @@ To run this project follow the steps below:
 - Download the tutorial material by clicking on **Code** on the top right -> **Download ZIP**
 - Unzip the file and save it on your computer.
 - If you do not have RStudio, please download and install it from: https://posit.co/download/rstudio-desktop/
-- Beginners with **R/RStudio** may also consult: http://r-tutorial.nl
-- Open **RStudio**.
+- Beginners with R/RStudio may also consult: http://r-tutorial.nl
+- Open RStudio.
 - Open the relevant R scripts and example files from the unzipped folder.
 - Make sure all required R packages are installed. If packages are not installed, RStudio will usually ask whether you want to install them.
 - Continue by running the scripts step by step, following instructions in the published tutorial
